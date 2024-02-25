@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "712181852894",
+    "project_id": "imagelabelproject-cfdaa",
+    "storage_bucket": "imagelabelproject-cfdaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712181852894:android:444ac11551b1dcac3c304f",
+        "android_client_info": {
+          "package_name": "com.example.image_labelling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712181852894-nchp2qntsu3evaq1rjeoa01ndmp5nfum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGY_OgjX1eHZmH8pvkS3enJ2hCK6iDBCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712181852894-nchp2qntsu3evaq1rjeoa01ndmp5nfum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
